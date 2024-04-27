@@ -3,7 +3,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
-public class Mai {
+public class Main {
 
     static public class MyVector {
         public double x;
